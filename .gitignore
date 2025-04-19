@@ -116,3 +116,9 @@ code
 lightning_logs
 models
 yolov5m.pt
+
+# pixi environments
+.pixi
+*.egg-info
+
+dataset/*
